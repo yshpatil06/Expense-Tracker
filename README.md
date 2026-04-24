@@ -20,7 +20,7 @@ Server/ → Node.js backend
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repo
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/yshpatil06/Expense-Tracker
 
 ### 2. Backend setup
 cd Server  
